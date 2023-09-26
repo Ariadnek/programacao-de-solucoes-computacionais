@@ -1,6 +1,11 @@
-.metadata
-*/.settings
-*/bin/
-*/.classpath
-*/.project
-*/ scr
+.metadata/
+
+**/.settings/
+
+**/bin/
+
+**/.classpath
+
+**/.project
+
+**/scr/
